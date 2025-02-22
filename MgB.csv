@@ -1,0 +1,1411 @@
+,Furnishing_status,OperatingTime,SecurityDeposit,Premium,Area,BHK,Owner,ResidencyType
+0,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+1,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+2,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+3,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+4,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+5,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+6,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+7,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+8,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+9,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+10,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+11,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+12,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+13,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+14,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+15,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+16,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+17,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+18,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+19,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+20,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+21,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+22,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+23,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+24,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+25,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+26,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+27,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+28,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+29,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+30,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+31,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+32,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+33,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+34,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+35,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+36,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+37,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+38,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+39,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+40,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+41,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+42,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+43,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+44,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+45,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+46,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+47,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+48,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+49,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+50,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+51,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+52,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+53,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+54,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+55,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+56,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+57,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+58,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+59,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+60,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+61,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+62,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+63,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+64,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+65,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+66,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+67,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+68,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+69,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+70,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+71,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+72,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+73,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+74,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+75,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+76,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+77,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+78,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+79,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+80,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+81,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+82,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+83,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+84,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+85,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+86,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+87,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+88,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+89,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+90,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+91,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+92,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+93,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+94,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+95,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+96,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+97,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+98,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+99,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+100,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+101,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+102,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+103,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+104,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+105,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+106,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+107,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+108,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+109,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+110,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+111,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+112,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+113,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+114,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+115,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+116,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+117,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+118,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+119,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+120,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+121,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+122,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+123,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+124,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+125,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+126,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+127,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+128,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+129,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+130,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+131,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+132,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+133,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+134,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+135,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+136,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+137,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+138,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+139,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+140,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+141,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+142,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+143,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+144,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+145,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+146,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+147,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+148,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+149,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+150,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+151,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+152,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+153,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+154,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+155,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+156,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+157,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+158,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+159,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+160,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+161,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+162,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+163,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+164,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+165,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+166,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+167,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+168,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+169,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+170,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+171,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+172,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+173,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+174,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+175,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+176,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+177,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+178,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+179,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+180,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+181,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+182,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+183,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+184,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+185,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+186,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+187,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+188,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+189,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+190,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+191,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+192,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+193,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+194,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+195,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+196,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+197,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+198,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+199,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+200,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+201,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+202,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+203,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+204,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+205,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+206,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+207,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+208,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+209,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+210,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+211,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+212,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+213,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+214,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+215,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+216,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+217,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+218,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+219,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+220,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+221,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+222,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+223,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+224,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+225,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+226,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+227,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+228,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+229,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+230,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+231,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+232,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+233,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+234,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+235,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+236,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+237,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+238,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+239,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+240,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+241,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+242,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+243,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+244,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+245,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+246,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+247,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+248,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+249,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+250,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+251,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+252,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+253,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+254,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+255,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+256,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+257,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+258,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+259,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+260,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+261,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+262,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+263,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+264,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+265,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+266,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+267,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+268,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+269,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+270,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+271,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+272,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+273,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+274,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+275,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+276,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+277,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+278,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+279,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+280,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+281,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+282,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+283,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+284,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+285,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+286,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+287,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+288,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+289,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+290,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+291,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+292,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+293,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+294,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+295,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+296,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+297,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+298,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+299,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+300,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+301,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+302,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+303,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+304,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+305,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+306,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+307,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+308,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+309,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+310,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+311,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+312,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+313,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+314,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+315,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+316,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+317,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+318,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+319,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+320,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+321,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+322,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+323,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+324,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+325,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+326,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+327,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+328,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+329,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+330,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+331,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+332,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+333,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+334,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+335,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+336,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+337,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+338,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+339,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+340,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+341,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+342,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+343,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+344,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+345,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+346,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+347,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+348,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+349,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+350,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+351,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+352,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+353,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+354,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+355,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+356,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+357,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+358,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+359,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+360,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+361,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+362,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+363,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+364,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+365,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+366,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+367,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+368,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+369,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+370,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+371,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+372,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+373,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+374,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+375,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+376,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+377,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+378,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+379,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+380,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+381,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+382,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+383,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+384,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+385,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+386,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+387,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+388,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+389,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+390,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+391,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+392,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+393,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+394,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+395,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+396,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+397,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+398,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+399,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+400,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+401,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+402,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+403,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+404,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+405,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+406,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+407,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+408,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+409,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+410,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+411,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+412,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+413,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+414,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+415,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+416,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+417,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+418,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+419,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+420,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+421,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+422,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+423,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+424,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+425,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+426,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+427,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+428,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+429,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+430,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+431,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+432,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+433,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+434,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+435,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+436,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+437,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+438,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+439,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+440,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+441,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+442,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+443,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+444,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+445,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+446,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+447,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+448,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+449,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+450,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+451,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+452,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+453,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+454,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+455,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+456,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+457,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+458,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+459,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+460,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+461,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+462,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+463,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+464,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+465,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+466,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+467,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+468,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+469,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+470,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+471,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+472,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+473,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+474,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+475,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+476,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+477,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+478,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+479,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+480,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+481,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+482,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+483,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+484,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+485,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+486,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+487,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+488,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+489,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+490,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+491,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+492,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+493,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+494,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+495,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+496,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+497,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+498,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+499,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+500,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+501,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+502,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+503,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+504,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+505,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+506,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+507,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+508,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+509,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+510,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+511,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+512,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+513,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+514,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+515,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+516,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+517,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+518,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+519,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+520,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+521,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+522,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+523,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+524,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+525,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+526,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+527,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+528,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+529,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+530,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+531,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+532,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+533,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+534,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+535,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+536,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+537,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+538,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+539,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+540,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+541,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+542,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+543,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+544,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+545,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+546,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+547,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+548,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+549,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+550,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+551,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+552,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+553,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+554,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+555,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+556,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+557,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+558,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+559,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+560,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+561,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+562,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+563,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+564,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+565,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+566,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+567,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+568,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+569,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+570,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+571,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+572,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+573,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+574,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+575,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+576,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+577,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+578,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+579,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+580,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+581,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+582,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+583,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+584,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+585,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+586,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+587,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+588,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+589,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+590,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+591,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+592,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+593,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+594,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+595,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+596,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+597,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+598,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+599,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+600,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+601,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+602,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+603,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+604,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+605,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+606,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+607,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+608,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+609,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+610,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+611,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+612,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+613,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+614,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+615,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+616,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+617,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+618,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+619,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+620,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+621,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+622,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+623,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+624,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+625,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+626,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+627,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+628,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+629,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+630,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+631,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+632,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+633,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+634,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+635,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+636,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+637,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+638,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+639,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+640,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+641,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+642,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+643,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+644,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+645,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+646,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+647,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+648,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+649,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+650,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+651,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+652,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+653,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+654,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+655,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+656,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+657,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+658,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+659,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+660,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+661,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+662,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+663,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+664,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+665,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+666,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+667,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+668,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+669,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+670,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+671,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+672,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+673,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+674,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+675,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+676,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+677,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+678,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+679,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+680,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+681,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+682,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+683,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+684,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+685,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+686,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+687,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+688,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+689,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+690,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+691,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+692,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+693,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+694,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+695,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+696,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+697,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+698,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+699,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+700,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+701,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+702,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+703,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+704,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+705,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+706,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+707,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+708,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+709,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+710,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+711,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+712,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+713,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+714,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+715,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+716,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+717,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+718,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+719,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+720,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+721,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+722,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+723,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+724,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+725,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+726,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+727,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+728,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+729,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+730,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+731,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+732,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+733,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+734,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+735,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+736,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+737,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+738,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+739,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+740,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+741,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+742,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+743,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+744,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+745,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+746,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+747,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+748,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+749,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+750,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+751,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+752,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+753,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+754,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+755,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+756,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+757,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+758,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+759,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+760,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+761,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+762,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+763,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+764,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+765,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+766,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+767,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+768,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+769,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+770,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+771,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+772,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+773,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+774,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+775,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+776,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+777,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+778,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+779,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+780,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+781,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+782,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+783,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+784,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+785,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+786,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+787,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+788,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+789,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+790,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+791,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+792,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+793,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+794,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+795,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+796,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+797,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+798,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+799,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+800,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+801,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+802,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+803,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+804,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+805,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+806,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+807,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+808,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+809,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+810,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+811,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+812,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+813,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+814,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+815,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+816,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+817,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+818,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+819,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+820,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+821,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+822,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+823,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+824,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+825,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+826,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+827,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+828,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+829,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+830,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+831,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+832,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+833,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+834,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+835,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+836,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+837,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+838,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+839,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+840,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+841,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+842,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+843,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+844,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+845,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+846,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+847,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+848,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+849,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+850,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+851,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+852,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+853,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+854,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+855,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+856,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+857,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+858,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+859,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+860,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+861,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+862,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+863,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+864,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+865,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+866,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+867,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+868,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+869,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+870,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+871,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+872,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+873,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+874,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+875,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+876,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+877,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+878,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+879,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+880,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+881,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+882,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+883,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+884,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+885,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+886,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+887,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+888,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+889,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+890,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+891,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+892,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+893,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+894,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+895,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+896,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+897,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+898,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+899,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+900,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+901,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+902,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+903,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+904,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+905,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+906,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+907,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+908,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+909,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+910,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+911,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+912,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+913,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+914,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+915,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+916,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+917,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+918,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+919,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+920,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+921,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+922,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+923,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+924,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+925,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+926,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+927,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+928,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+929,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+930,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+931,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+932,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+933,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+934,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+935,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+936,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+937,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+938,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+939,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+940,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+941,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+942,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+943,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+944,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+945,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+946,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+947,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+948,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+949,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+950,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+951,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+952,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+953,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+954,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+955,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+956,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+957,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+958,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+959,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+960,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+961,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+962,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+963,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+964,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+965,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+966,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+967,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+968,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+969,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+970,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+971,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+972,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+973,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+974,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+975,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+976,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+977,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+978,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+979,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+980,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+981,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+982,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+983,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+984,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+985,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+986,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+987,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+988,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+989,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+990,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+991,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+992,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+993,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+994,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+995,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+996,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+997,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+998,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+999,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+1000,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+1001,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+1002,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+1003,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+1004,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+1005,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+1006,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+1007,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+1008,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+1009,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+1010,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+1011,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+1012,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+1013,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+1014,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+1015,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+1016,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+1017,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+1018,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+1019,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+1020,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+1021,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+1022,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+1023,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+1024,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+1025,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+1026,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+1027,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+1028,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+1029,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+1030,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+1031,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+1032,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+1033,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+1034,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+1035,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+1036,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+1037,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+1038,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+1039,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+1040,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+1041,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+1042,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+1043,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+1044,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+1045,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+1046,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+1047,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+1048,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+1049,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+1050,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+1051,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+1052,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+1053,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+1054,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+1055,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+1056,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+1057,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+1058,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+1059,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+1060,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+1061,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+1062,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+1063,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+1064,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+1065,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+1066,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+1067,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+1068,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+1069,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+1070,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+1071,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+1072,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+1073,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+1074,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+1075,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+1076,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+1077,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+1078,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+1079,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+1080,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+1081,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+1082,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+1083,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+1084,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+1085,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+1086,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+1087,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+1088,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+1089,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+1090,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+1091,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+1092,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+1093,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+1094,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+1095,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+1096,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+1097,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+1098,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+1099,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+1100,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+1101,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+1102,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+1103,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+1104,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+1105,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+1106,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+1107,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+1108,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+1109,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+1110,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+1111,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+1112,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+1113,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+1114,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+1115,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+1116,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+1117,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+1118,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+1119,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+1120,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+1121,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+1122,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+1123,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+1124,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+1125,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+1126,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+1127,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+1128,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+1129,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+1130,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+1131,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+1132,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+1133,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+1134,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+1135,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+1136,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+1137,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+1138,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+1139,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+1140,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+1141,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+1142,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+1143,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+1144,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+1145,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+1146,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+1147,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+1148,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+1149,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+1150,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+1151,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+1152,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+1153,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+1154,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+1155,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+1156,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+1157,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+1158,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+1159,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+1160,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+1161,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+1162,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+1163,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+1164,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+1165,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+1166,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+1167,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+1168,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+1169,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+1170,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+1171,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+1172,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+1173,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+1174,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+1175,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+1176,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+1177,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+1178,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+1179,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+1180,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+1181,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+1182,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+1183,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+1184,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+1185,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+1186,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+1187,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+1188,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+1189,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+1190,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+1191,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+1192,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+1193,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+1194,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+1195,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+1196,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+1197,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+1198,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+1199,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+1200,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+1201,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+1202,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+1203,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+1204,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+1205,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+1206,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+1207,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+1208,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+1209,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+1210,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+1211,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+1212,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+1213,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+1214,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+1215,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+1216,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+1217,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+1218,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+1219,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+1220,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+1221,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+1222,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+1223,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+1224,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+1225,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+1226,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+1227,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+1228,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+1229,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+1230,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+1231,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+1232,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+1233,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+1234,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+1235,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+1236,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+1237,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+1238,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+1239,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+1240,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+1241,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+1242,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+1243,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+1244,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+1245,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+1246,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+1247,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+1248,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+1249,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+1250,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+1251,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+1252,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+1253,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+1254,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+1255,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+1256,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+1257,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+1258,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+1259,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+1260,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+1261,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+1262,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+1263,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+1264,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+1265,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+1266,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+1267,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+1268,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+1269,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+1270,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+1271,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+1272,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+1273,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+1274,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+1275,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+1276,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+1277,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+1278,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+1279,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+1280,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+1281,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+1282,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+1283,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+1284,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+1285,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+1286,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+1287,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+1288,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+1289,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+1290,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+1291,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+1292,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+1293,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+1294,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+1295,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+1296,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+1297,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+1298,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+1299,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+1300,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+1301,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+1302,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+1303,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+1304,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+1305,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+1306,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+1307,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+1308,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+1309,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+1310,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+1311,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+1312,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+1313,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+1314,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+1315,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+1316,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+1317,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+1318,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+1319,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+1320,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+1321,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+1322,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+1323,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+1324,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+1325,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+1326,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+1327,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+1328,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+1329,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+1330,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+1331,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+1332,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+1333,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+1334,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+1335,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+1336,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+1337,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+1338,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+1339,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+1340,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+1341,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+1342,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+1343,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+1344,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+1345,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+1346,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+1347,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+1348,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+1349,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+1350,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+1351,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+1352,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+1353,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+1354,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+1355,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+1356,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+1357,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+1358,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+1359,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+1360,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+1361,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+1362,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+1363,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+1364,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+1365,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+1366,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+1367,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+1368,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+1369,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+1370,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+1371,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+1372,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+1373,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+1374,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+1375,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+1376,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+1377,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+1378,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+1379,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
+1380,Semi-Furnished,2005,10000,Premium,"NEB Valley Society, Saket",1,Nagpal Associates,Other
+1381,Semi-Furnished,2000,10000,Premium,"Project Amar Colony, Lajpat Nagar 4",Unknown,Bhalla Properties,Apartment
+1382,Semi-Furnished,0,10000,Premium,Saket,1,S S Deswal,Other
+1383,Unfurnished,2010,9500,Premium,Laxmi Nagar,1,Good Luck Properties,Other
+1384,Unknown,2000,6000,Premium,Sant Nagar East of Kailash,Unknown,Amit Property,Other
+1385,Semi-Furnished,0,9000,Premium,"Sarita Vihar, Mathura Road",1,Subodh Rawat,Apartment
+1386,Unknown,0,10000,Premium,Mayur Vihar 1,Unknown,Lucky Property,Other
+1387,Unfurnished,2010,10000,Premium,Munirka,1,Mudgal Associates,House
+1388,Semi-Furnished,0,10000,Premium,Tughlakabad Extension,1,dishant,Other
+1389,Unfurnished,0,10000,Premium,Aya Nagar,3,Sushma Singh,House
+1390,Semi-Furnished,0,10000,Premium,Chilla Sarda Bangar Village,1,kuldeep,House
+1391,Furnished,0,6500,Premium,Molarband,2,Vinod Kumar,House
+1392,Furnished,0,9000,Premium,Raja Garden,1,Satish batra,House
+1393,Semi-Furnished,2014,9000,Premium,"Kotla Mubarakpur, South Extension",1,Pahul Associates,Other
+1394,Unfurnished,0,6000,Premium,"DDA LIG Flats, Shahdara",1,dhruv,Apartment
+1395,Furnished,0,5000,Non-Premium,Sangam Vihar,1,Gaurav Chauhan,House
+1396,Unknown,0,7000,Premium,Block A Sewak Park,2,bks rathore,Other
+1397,Semi-Furnished,0,10000,Premium,"DDA Flats Sector 23, Sector 23 Dwarka",1,mohit singh,Apartment
+1398,Unfurnished,0,9500,Premium,Aya Nagar,1,Pramod Dixit,House
+1399,Semi-Furnished,0,5500,Premium,Rani Bagh Pitam Pura,1,Aman vij,Other
+1400,Unknown,0,8999,Premium,SS plaza,Unknown,gd mishra,Other
+1401,Unknown,0,3500,Non-Premium,Madhu Vihar Patparganj,Unknown,Sushma,Other
+1402,Semi-Furnished,0,7000,Premium,"Maidan Garhi, Chhattarpur",1,ravinder dagar,Apartment
+1403,Semi-Furnished,0,9000,Premium,Mahavir Enclave Part 3,2,Ashish Choudhary,Apartment
+1404,Unfurnished,0,7000,Premium,Narela,2,Dipanshu Dahiya,Other
+1405,Unfurnished,0,5000,Non-Premium,Jaitpur Extension Part 2,1,Siya,Apartment
+1406,Semi-Furnished,0,5500,Premium,Mohan Garden Razapur Khurd,1,kedar singh mahara,Apartment
+1407,Furnished,0,10000,Premium,Vishnu Garden,1,Smiley,Apartment
+1408,Unknown,0,5000,Non-Premium,Bhajanpura,Unknown,saif,Other
+1409,Unfurnished,0,5000,Non-Premium,Dwarka Mor,1,Sarvesh Banwal,House
